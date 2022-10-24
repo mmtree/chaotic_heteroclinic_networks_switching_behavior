@@ -1,1 +1,1 @@
-# chaotic_heteroclinic_networks_switching_behavior
+# Chaotic heteroclinic networks as models of switching behavior in biological systems
