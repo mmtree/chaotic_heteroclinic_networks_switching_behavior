@@ -3,3 +3,4 @@
 ## **Celegans_fps.m** simulates dynamics for a simple heteroclinic network with two fixed points
 
 
+![Alt text](/figures/Celegans_fps_fig1.png?raw=true "Optional Title")
