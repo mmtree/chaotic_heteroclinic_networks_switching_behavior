@@ -4,3 +4,6 @@
 
 
 ![Alt text](/figures/Celegans_fps_fig1.png?raw=true "Optional Title")
+
+
+![Alt text](/figures/Celegans_fps_fig2.png?raw=true "Optional Title")
