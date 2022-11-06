@@ -65,7 +65,7 @@ for i = 1:length(x0_vec)
     plot(x(:,1),x(:,2),'color',[0.5 0.5 0.5]);
 end
 
-xlim([-14 6]);
+xlim([-14 5]);
 ylim([-10 4]);
 
 % plot single trajectory
@@ -91,6 +91,8 @@ scatter(fp7_loc(1),fp7_loc(2),50,[ 0.9100 0.4100 0.1700],'linewidth',4); %fp7: o
 scatter(fp8_loc(1),fp8_loc(2),50,[0.2 0 0],'linewidth',4); %fp8: brown
 scatter(-11,-1.5,50,[0.6350, 0.0780, 0.1840],'linewidth',4); %fp6: dark red
 axis off
+
+title('heteroclinic network');
 
 fig = gcf;
 fig.PaperPositionMode = 'auto';
