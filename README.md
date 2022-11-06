@@ -20,4 +20,8 @@ The two saddle fixed points in this simulation are located at $(x,y) = (1,1)$ an
 
 ![Alt text](/figures/Linderman2.png?raw=true "Optional Title")
 
+## Nichols2017_make_fig.m
+
+**Nichols2017_make_fig.m** simulates dynamics for a heteroclinic network with three fixed points and computes dwell times.
+
 
